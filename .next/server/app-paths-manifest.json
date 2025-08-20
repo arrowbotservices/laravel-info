@@ -1,11 +1,1 @@
-{
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/crud/page": "app/crud/page.js",
-  "/files/page": "app/files/page.js",
-  "/explain/page": "app/explain/page.js",
-  "/forms/page": "app/forms/page.js",
-  "/installation/page": "app/installation/page.js",
-  "/terminal/page": "app/terminal/page.js",
-  "/page": "app/page.js"
-}
+{}
