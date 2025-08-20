@@ -1,0 +1,11 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/crud/page": "/crud",
+  "/files/page": "/files",
+  "/explain/page": "/explain",
+  "/forms/page": "/forms",
+  "/installation/page": "/installation",
+  "/terminal/page": "/terminal",
+  "/page": "/"
+}
